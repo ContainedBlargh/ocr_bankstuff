@@ -1,0 +1,44 @@
+Account+                                                 Account no. 4240 9720 154
++-----+---------------------------------+-----------------------------------------
+Date  | Text                            | Intrst. Date     Amount        Balance
++-----+---------------------------------+-----------------------------------------
+11.09 | Efuf hfulqrå obihsoågbz         |                        0.00         0.00
+10.09 | Ø llxqæbbfj må meææ             |                        0.00         0.00
+09.07 | Idoyfkqiræw zmv vpxab ømi       |                   -2,903.15    -2,903.15
+14.11 | Elåxotugq rqaåpyqqs cbwånxdn... |                    1,162.64    -1,740.51
+07.10 | Yjotgmy rxiccæ vbrvck           |                    4,404.73     2,664.22
+12.01 | Pælbøqåqk istøspw xmesexguæy... | 12.01             -2,641.72        22.50
+20.12 | C                               |                     -542.96      -520.46
+18.10 | Oøcænwz meopixynz               |                   -1,787.11    -2,307.57
+10.03 | Pånmknpgaoø å kkyzyæhkw         |                        0.00    -2,307.57
+29.12 | Unimbodied                      |                    3,391.02     1,083.45
+12.04 | Rjmyntnøx                       |                        0.00     1,083.45
+17.02 | Ud eiaæauudql arsæstg           |                    2,854.80     3,938.25
+20.01 | Årjæ hrczligæwy                 | 20.01             -2,319.62     1,618.63
+13.09 | Sø ibmpeyn                      | 13.09              3,174.90     4,793.53
+06.07 | Åæækswz jdshrx kdycbbzp rpøxæ   |                        0.00     4,793.53
+21.05 | Uævcpjqciøæ ytnsø åorwl zæhøwpt |                   -3,823.15       970.38
+04.04 | Unfæk                           |                   -2,135.26    -1,164.88
+13.03 | Hxkzmååxvu bvqyfpwgv            |                    2,910.35     1,745.47
+11.04 | Mpondo Borable                  |                    3,771.42     5,516.89
+16.01 | Fhæe æzmzibgåuxc ælbt           |                   -4,569.04       947.85
+09.08 | Uhæ eæøtrqkttw                  |                        0.00       947.85
+11.07 | Æbsænåhtzå akæik pqcyezvxecem   |                   -4,322.18    -3,374.33
+24.01 | Obibe odmxqxø                   | 24.01             -2,702.03    -6,076.36
+22.07 | Zæåfeæotqgh æ                   |                    2,049.30    -4,027.06
+15.08 | Bonøwmtirr øfåezoåkum           | 15.08             -2,320.71    -6,347.77
+12.09 | Plmuamxqiqv då xpåsårbs         |                     -566.66    -6,914.43
+17.11 | Ez åafmotsfgr                   |                    3,602.67    -3,311.76
+25.09 | Pneøcqzu hwbhu åøå wakrvvrz     |                    1,494.51    -1,817.25
+02.05 | Sbjs                            |                     -267.42    -2,084.67
+17.01 | Åebhcbkzqøz ddfarzøsfzøx        |                        0.00    -2,084.67
+07.07 | Jåøcipnehgyw xd                 |                   -3,609.27    -5,693.94
+06.05 | Øcrqsbclos pgpy wrøozueczf      |                    3,845.47    -1,848.47
+30.01 | Ølu hdavxeøpimo ækåbuå          |                    3,671.24     1,822.77
+11.07 | Psychodispositional Hysterop... |                      -52.88     1,769.89
+25.06 | Lhævwkacy pcyf                  |                    3,299.50     5,069.39
+24.01 | Jg qilnoxrgvg æipyanqø cøcdåp   |                        0.00     5,069.39
+14.04 | Bsdrff zfy mdå                  |                   -2,059.08     3,010.31
++-----+---------------------------------+-----------------------------------------
+        New balance                                                       0.00
+----------------------------------------------------------------------------------

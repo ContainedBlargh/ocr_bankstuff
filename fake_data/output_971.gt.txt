@@ -1,0 +1,42 @@
+Account+                                                 Account no. 7983 6763 736
++-----+---------------------------------+-----------------------------------------
+Date  | Text                            | Intrst. Date     Amount        Balance
++-----+---------------------------------+-----------------------------------------
+17.08 | Ægzefwåt q pwgåscrblcs tsbonzlq |                        0.00         0.00
+31.07 | Qræåosodøtb il rsmørøpåø ogu... | 31.07                  0.00         0.00
+18.10 | Dnoh buæyøzbjøb                 |                    2,149.34     2,149.34
+28.11 | Ysvuøpij rtøjåtre               | 28.11             -3,238.50    -1,089.16
+20.01 | Vafyh                           |                    4,191.81     3,102.65
+26.02 | Uiuqvææ bafqkcqcd hmæhqngqm ... |                     -381.20     2,721.45
+01.11 | Qæxxælæugo jiol sgosgæwåj ww... |                        0.00     2,721.45
+27.04 | Nkrørqtekrjo øitæcmgnu ls       | 27.04              4,666.96     7,388.41
+13.01 | Fålftååbøeø mæotypvææd          |                    2,394.86     9,783.27
+19.11 | Bynæzazqh                       |                    2,647.86    12,431.13
+03.10 | Wnsntj kwenl nåfnuc fiqziuwqøm  |                    4,037.12    16,468.25
+17.09 | S xvt                           |                        0.00    16,468.25
+01.12 | Xxæ kåomrdj vifnxwbgkåq         | 01.12             -3,963.07    12,505.18
+09.12 | Æ ltzccuæduazs zgyøeppqgcsi dzs |                    3,974.17    16,479.35
+12.11 | Åoy fk yæhvcæeæeåc              |                    1,259.42    17,738.77
+31.05 | Ihsyødozøb åøuaeææædxææ økøå... |                        0.00    17,738.77
+03.08 | Jf hcopæål                      |                    3,536.33    21,275.10
+17.01 | Nvwægzæabiup tiuvdtevojov       |                   -3,800.50    17,474.60
+08.01 | Ød savkfwåosku gærwptadiszø     |                    1,475.65    18,950.25
+03.01 | Ftckzcr rww føylaq              | 03.01               -742.42    18,207.83
+20.11 | Ofsunsæjxuæ swpwyåzkåå          |                   -3,093.89    15,113.94
+28.10 | Døzænyzeåtie nrxsåæeopz         |                   -3,826.81    11,287.13
+01.11 | Æ sø k dåa                      |                   -2,990.95     8,296.18
+11.04 | Sanctifiableness Suckfish       |                   -4,291.42     4,004.76
+07.01 | Ååiiqscg øøcwtt noulæ           |                        0.00     4,004.76
+29.11 | Afæepidezbæg uømeximøxn         |                     -248.98     3,755.78
+04.07 | Gzwrxtbhrh                      |                        0.00     3,755.78
+25.11 | Lawing Byssolite Dilapidated    |                        0.00     3,755.78
+27.12 | Mqyao iåveøygsxwot bcht øøxuly  | 27.12                421.34     4,177.12
+17.07 | Zææåæ gåæis sxp øvæyælybycg     |                   -2,539.58     1,637.54
+16.07 | Åavæækocr jpdakbzå              |                   -3,187.08    -1,549.54
+24.07 | Agt                             |                      206.77    -1,342.77
+14.10 | Åa nbvæxkøøåje øsåmuåmå mæa     |                    1,962.36       619.59
+13.11 | Nw fuaqæmåzætim åceboyktpxå     |                        0.00       619.59
+17.08 | B hdj isiamtøæ                  | 17.08              1,849.27     2,468.86
++-----+---------------------------------+-----------------------------------------
+        New balance                                                       0.00
+----------------------------------------------------------------------------------

@@ -1,0 +1,40 @@
+Account+                                                 Account no. 9059 1071 236
++-----+---------------------------------+-----------------------------------------
+Date  | Text                            | Intrst. Date     Amount        Balance
++-----+---------------------------------+-----------------------------------------
+18.05 | Xøøhøzsiljl eugcwzwozf          |                   -2,308.22    -2,308.22
+18.06 | Kæøe fyjtplxzirj ælmmtzyeydh... | 18.06                 41.33    -2,266.89
+24.09 | L ætxpf ææxåy øglfzaiudwl       |                    3,838.09     1,571.20
+29.03 | Pæaøgro æchvøf æy wbqohlånæ     | 29.03              2,444.37     4,015.57
+14.07 | Oykldquæ h aæøhcod exøånthææd   |                    1,074.33     5,089.90
+14.01 | Ocvuelvfføq uvøhkc øåxthf wcddr |                      265.31     5,355.21
+13.04 | Ø ljsgsqcy                      |                        0.00     5,355.21
+22.09 | Sztowotfkb mlrvyhæiåxe gevbe    |                      722.90     6,078.11
+23.06 | Rd nv æi nhfzæmpyke             |                     -248.47     5,829.64
+14.09 | Oyøppjilæak ærhådwcnysc e ig... |                        0.00     5,829.64
+04.06 | Æsjtdncåhpuc ahgbåsgwlt         |                    1,465.77     7,295.41
+09.04 | Ådri æupp vchåajte æåfomoz      |                    3,715.12    11,010.53
+25.11 | Nuponrmdåj wp kvnotf wthfawo    |                    2,038.07    13,048.60
+28.08 | Øuexxæøcp feugqla dåzqmg        | 28.08              3,950.70    16,999.30
+23.11 | Kæøwqamæjl gf                   |                        0.00    16,999.30
+05.03 | Helwaæfzw jrbwm høbgzskhf ux    |                   -3,926.92    13,072.38
+22.04 | Krcrdbkøcm ægxwmzlå rcfr nfs... |                    1,684.20    14,756.58
+02.07 | Rx køwkåå                       |                   -2,276.02    12,480.56
+29.06 | Øpmzwræ åzmhxfg øvlåqtx         |                    1,298.03    13,778.59
+20.12 | Fonv                            |                    1,092.63    14,871.22
+11.07 | Ogpzzywwrf ztvxååaml nfrøotq... |                        0.00    14,871.22
+20.03 | Rdmbmbzøæupl lfotxccs           |                   -2,038.81    12,832.41
+21.01 | Uaærzhehlj                      |                    3,327.19    16,159.60
+19.12 | Dåboccæxusp pectarcpæml åmlx... | 19.12              3,097.13    19,256.73
+12.01 | Puåekwpe zacjøja nrzr cctaåå    |                    1,946.86    21,203.59
+09.09 | Qeøma                           |                        0.00    21,203.59
+18.04 | Uøæcfynlæ ibehå                 |                   -1,217.60    19,985.99
+23.03 | Wæ nknigøbmse ozawvqæhv         |                        0.00    19,985.99
+23.03 | Ydizsgdbww                      | 23.03             -4,618.92    15,367.07
+11.06 | Txåceåæpya qqobaqtrwd byawq ... |                   -4,487.05    10,880.02
+13.05 | Dogsåzqpy                       | 13.05                380.45    11,260.47
+11.07 | Fmcåx påækpqi                   |                        0.00    11,260.47
+06.12 | Tbåynx                          | 06.12                  0.00    11,260.47
++-----+---------------------------------+-----------------------------------------
+        New balance                                                       0.00
+----------------------------------------------------------------------------------

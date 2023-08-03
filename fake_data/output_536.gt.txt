@@ -1,0 +1,55 @@
+Account+                                                 Account no. 4708 8512 811
++-----+---------------------------------+-----------------------------------------
+Date  | Text                            | Intrst. Date     Amount        Balance
++-----+---------------------------------+-----------------------------------------
+31.03 | Zøodth obnlåwwzua uføvø         |                      607.49       607.49
+10.03 | Vzwcdcøfqx åegfsuta enxcwykc... |                   -1,565.78      -958.29
+09.11 | Bsaefrwåumåx jmbgækæf osqnqæqsm |                    4,487.40     3,529.11
+25.05 | Vrtyåpxnliås arfsø øh           |                    3,594.23     7,123.34
+12.07 | Vviøæpkg ljcboåthxd yåxd        |                    3,395.12    10,518.46
+14.08 | Hyrnårzshs v gtdøaøgsfw         |                   -3,786.03     6,732.43
+12.08 | Øllysx y æækfmnrs               |                      700.76     7,433.19
+11.10 | Drwigicwø                       |                        0.00     7,433.19
+02.06 | Å qdqjjomybou pøvæwarjvdæ ææ... | 02.06                132.60     7,565.79
+26.02 | Xzhåwøwawwc kgdgæcu xvxpzfkmeo  |                        0.00     7,565.79
+22.02 | Æh oægcqaåy yjwqsuh uægxoxææj   |                   -3,583.47     3,982.32
+28.03 | Bcmqbgy åøckrys                 |                    1,875.77     5,858.09
+11.09 | Ag eøånobk iåxglldty            | 11.09             -3,824.03     2,034.06
+04.09 | Ftce                            |                    3,668.35     5,702.41
+31.01 | Åaåqy                           |                        0.00     5,702.41
+15.02 | Bæzrgx                          | 15.02                  0.00     5,702.41
+27.04 | Ørs øhpåeiæn                    |                   -3,825.79     1,876.62
+16.03 | Svhvzszansåx htsarc yå oå       |                    3,449.16     5,325.78
+26.07 | Wn æqæøustbb r                  | 26.07              4,769.94    10,095.72
+21.07 | Ycånv økfzrhajiwb lkqpvnhølb... |                      815.81    10,911.53
+08.10 | Lbkgyg tvæarllm åarøxf cjåokøm  |                    2,662.27    13,573.80
+08.07 | Qblhpevjhoc                     |                   -3,533.98    10,039.82
+28.04 | Øåø vxkiøxumblgy vmztlidhczgr   |                      301.20    10,341.02
+23.01 | Invgwørnøåzn lkopyåøåpjym bf... | 23.01              4,989.85    15,330.87
+21.12 | Ruhowxrkjd                      |                      620.21    15,951.08
+03.09 | Rsaxwd euænt jfvgyr rågic       | 03.09             -2,578.33    13,372.75
+26.04 | Vvænmfqqrgåø cxgdpørlsø         |                        0.00    13,372.75
+16.02 | Hhx æå l øtabtd                 |                    2,552.62    15,925.37
+17.03 | Xjcgdøcotgc azqymrvanviy        |                    1,501.01    17,426.38
+25.09 | Ajha io mcønqzåfcx              | 25.09                  0.00    17,426.38
+15.07 | Ågttlebø                        |                     -573.06    16,853.32
+27.12 | Zxmønøms                        |                   -1,879.88    14,973.44
+16.02 | Dfxzlhåå jæøwfhønøbff yyvdn ... | 16.02                  0.00    14,973.44
+26.08 | Mæåhvdøeiåq dppw zinbpøønzhi... |                   -3,402.95    11,570.49
+23.05 | Lcåttaemc ædkåbøæåi nååvo ds... |                   -1,993.68     9,576.81
+22.08 | Q ip igåådn                     |                    3,465.66    13,042.47
+15.07 | Ge yqyohoøæmdi                  |                   -3,108.58     9,933.89
+08.05 | Vqqszåwøn                       |                        0.00     9,933.89
+27.01 | Gpaiøliirød cåm sqønøærbt       |                    2,600.01    12,533.90
+07.06 | Kfhnrg agmsqmr                  |                    1,615.27    14,149.17
+25.12 | F zrkxøaåå anv cafazåa          |                     -184.58    13,964.59
+28.06 | Bikycæud ærdøwq lb hey          |                   -2,024.24    11,940.35
+15.07 | Tæp                             |                     -901.69    11,038.66
+15.10 | Iaeo øxpufumo                   |                    1,222.24    12,260.90
+28.01 | Tx æqtcætdqpø pg wtim           |                   -3,019.84     9,241.06
+03.12 | Uzviæmøe                        | 03.12              4,568.08    13,809.14
+12.06 | Waæavxprpæz z zpy xmflgjøgl     | 12.06             -1,263.89    12,545.25
+13.11 | T umøxbix bgs                   |                    4,640.82    17,186.07
++-----+---------------------------------+-----------------------------------------
+        New balance                                                       0.00
+----------------------------------------------------------------------------------

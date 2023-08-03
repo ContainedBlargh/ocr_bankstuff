@@ -1,0 +1,50 @@
+Account+                                                 Account no. 1792 6585 656
++-----+---------------------------------+-----------------------------------------
+Date  | Text                            | Intrst. Date     Amount        Balance
++-----+---------------------------------+-----------------------------------------
+15.11 | Kboyrhp                         |                   -3,803.51    -3,803.51
+19.12 | Fiaywoejw åv                    |                   -4,914.38    -8,717.89
+04.07 | Mz åæ thptyf gsgnfwfvb          |                   -2,360.89   -11,078.78
+03.09 | Nbråposuøkjj eåægæg zcigmis     |                    3,366.36    -7,712.42
+08.09 | Kkæmwrnbnpj bgbfcblfsåry zejom  |                    3,933.34    -3,779.08
+29.04 | Inctø wvkyoføwq hrhptøuvhx      |                   -2,662.56    -6,441.64
+13.12 | Æoøjøta euwålåpetu påcøajkl     |                        0.00    -6,441.64
+02.07 | Xn v vz aæ                      |                      906.34    -5,535.30
+19.10 | Njashæf uoxåkn wtuaåftkjg       | 19.10                  0.00    -5,535.30
+02.11 | U uitdeøwhlupd epæcxt hrnjtløzm | 02.11              2,664.78    -2,870.52
+21.09 | Dæøfw dt p                      |                   -1,209.96    -4,080.48
+17.07 | Slidåsæonc mcd æ                |                      776.15    -3,304.33
+14.07 | Bdsppsmømdzv ønlkøq øuåvzrdgø   |                        0.00    -3,304.33
+10.05 | Tbaddywsfxgv                    |                   -3,491.58    -6,795.91
+22.05 | Løblxåzv                        |                   -4,713.40   -11,509.31
+30.05 | Ywæwcryzøvw                     |                   -3,665.90   -15,175.21
+09.12 | Kabyøqwæ pgpæxegzfpre hd        | 09.12                  0.00   -15,175.21
+28.02 | Dpfåluoqqh øf pnziægqaa tvnæ    |                        0.00   -15,175.21
+05.08 | Oøeqnækq fzbvlaewætaf           |                      952.99   -14,222.22
+05.05 | Øeåkhæztl wøhv åobrdk wædqwyvne |                   -1,269.71   -15,491.93
+22.03 | Ag duk qe                       |                        0.00   -15,491.93
+24.05 | Zyzk eødnszåv ajdjxuæ           |                        0.00   -15,491.93
+10.09 | Mi fe tmttqaøw slnæzoå          |                    2,064.04   -13,427.89
+03.03 | Åqcvygmkeiuh rhbååvid laaqøo... | 03.03             -4,518.43   -17,946.32
+08.09 | Fæjzuzstwwø exptlblkf           |                   -3,323.13   -21,269.45
+28.03 | Gucm mdbzøzaiåmu                |                     -644.60   -21,914.05
+14.06 | Uåyz                            |                   -2,808.66   -24,722.71
+17.03 | V åudfåp øen                    |                   -1,935.73   -26,658.44
+22.02 | Ø cæølksz fkøvfxæ               | 22.02                  0.00   -26,658.44
+17.12 | Rqjøhsz wkhæ                    |                    1,475.48   -25,182.96
+11.08 | Ahyeprcxgaææ ifqmdvnvti deft... |                   -2,173.21   -27,356.17
+09.03 | Nhjæiiu åvbobpy gmfzvispdær i   |                        0.00   -27,356.17
+29.11 | Ecåwgcazsex xxtt åxmymægr hd... |                    2,374.42   -24,981.75
+06.02 | R                               |                    4,547.05   -20,434.70
+28.04 | Un dcuwp æbxphæeklaf            |                        0.00   -20,434.70
+07.08 | Npåkxxdlnåz bgnqææwuyø          |                    2,305.91   -18,128.79
+01.02 | Meåwl ø makubn                  | 01.02                  0.00   -18,128.79
+22.11 | Gjcqzøkcæwå rlrurå yblwuj øt... |                    4,439.62   -13,689.17
+04.06 | Xæfrmsosåc hitkpzr søz træ      |                    4,832.50    -8,856.67
+07.04 | Lum cyøja kphhbdkaøåu zhcfui... |                    2,605.98    -6,250.69
+28.11 | Afcnnqj åæb                     |                    3,313.77    -2,936.92
+08.12 | Zeæhåmyøj yizho                 | 08.12                  0.00    -2,936.92
+11.10 | Gpcåkiødqamx nqo ckpkru         |                   -2,855.88    -5,792.80
++-----+---------------------------------+-----------------------------------------
+        New balance                                                       0.00
+----------------------------------------------------------------------------------
